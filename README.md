@@ -98,7 +98,7 @@ LoadRunner | JMeter
 - 👯 I’m looking to collaborate on automation frameworks and QA best practices  
 - 🤔 I’m looking for help with improving framework design and test stability at scale  
 - 💬 Ask me about Selenium, Appium, Playwright, BDD (Cucumber), TestNG  
-- 📫 How to reach me: (add your LinkedIn or email here)  
+- 📫 How to reach me: https://www.linkedin.com/in/chaitanya-posinaseetti 
 - ⚡ Fun fact: I enjoy breaking things (bugs) to build better software 😄  
 
 ---
